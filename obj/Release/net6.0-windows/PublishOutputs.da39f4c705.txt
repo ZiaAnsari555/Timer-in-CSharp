@@ -1,0 +1,5 @@
+C:\Users\Zia Ansari\source\repos\TimerApp\TimerApp\bin\publish\TimerApp.exe
+C:\Users\Zia Ansari\source\repos\TimerApp\TimerApp\bin\publish\TimerApp.dll
+C:\Users\Zia Ansari\source\repos\TimerApp\TimerApp\bin\publish\TimerApp.deps.json
+C:\Users\Zia Ansari\source\repos\TimerApp\TimerApp\bin\publish\TimerApp.runtimeconfig.json
+C:\Users\Zia Ansari\source\repos\TimerApp\TimerApp\bin\publish\TimerApp.pdb
